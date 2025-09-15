@@ -5,3 +5,4 @@ obj/
 .vscode/
 shell/**/*.sln
 !shell/shell.sln
+.DS_Store
