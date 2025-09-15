@@ -6,3 +6,4 @@ obj/
 shell/**/*.sln
 .DS_Store
 !shell/shell.sln
+.DS_Store
